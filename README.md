@@ -14,4 +14,12 @@
 
 * Unix systems are typically proprieatry while linux is open source.
 
+### Explain the file system hierarchy in linux ?
+
+* The file system hierarchy in linux organizes files and directories in a tree structure.
+
+* Common directories include /root, /bin(essential binaries), /etc(system configuration files), /home(usr home directories), and /var(variable files).
+
 * 
+
+
