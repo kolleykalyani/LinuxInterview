@@ -38,6 +38,12 @@
 
 ### What is the diff b/w soft link & hard link ?
 
-* A softlink 
+* A **softlink** is a pointer to another file or directory.
+
+* A **Hardlink** is a directory entry pointing directly to the inode of another file.
+
+### How do you manage services in linux ?
+
+* 
 
 
